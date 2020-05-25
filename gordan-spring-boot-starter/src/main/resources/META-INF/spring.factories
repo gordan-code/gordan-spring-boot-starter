@@ -1,0 +1,2 @@
+org.springframework.boot.autocinfigure.EnableAutoConfiguration=\
+com.gordan.spring.boot.starter.UserAutoConfiguration

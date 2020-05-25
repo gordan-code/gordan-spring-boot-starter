@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.gordan",
+      "type": "com.gordan.spring.boot.starter.UserProperties",
+      "sourceType": "com.gordan.spring.boot.starter.UserProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.gordan.password",
+      "type": "java.lang.String",
+      "sourceType": "com.gordan.spring.boot.starter.UserProperties"
+    },
+    {
+      "name": "com.gordan.username",
+      "type": "java.lang.String",
+      "sourceType": "com.gordan.spring.boot.starter.UserProperties"
+    }
+  ],
+  "hints": []
+}

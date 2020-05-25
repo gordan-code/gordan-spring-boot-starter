@@ -1,0 +1,4 @@
+com\gordan\spring\boot\starter\UserProperties.class
+com\gordan\GordanSpringBootStarterApplication.class
+com\gordan\spring\boot\starter\UserAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
